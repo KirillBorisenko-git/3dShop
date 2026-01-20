@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/3dshop/static/css/main.21a92beb.css",
+    "main.js": "/3dshop/static/js/main.c0b404a9.js",
+    "static/js/453.4b0faa55.chunk.js": "/3dshop/static/js/453.4b0faa55.chunk.js",
+    "static/media/hed.jpg": "/3dshop/static/media/hed.a6b65d2808d3d2a80532.jpg",
+    "index.html": "/3dshop/index.html",
+    "main.21a92beb.css.map": "/3dshop/static/css/main.21a92beb.css.map",
+    "main.c0b404a9.js.map": "/3dshop/static/js/main.c0b404a9.js.map",
+    "453.4b0faa55.chunk.js.map": "/3dshop/static/js/453.4b0faa55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a92beb.css",
+    "static/js/main.c0b404a9.js"
+  ]
+}
